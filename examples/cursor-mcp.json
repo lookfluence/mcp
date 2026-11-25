@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "lookfluence": {
+      "url": "https://mcp.lookfluence.com/mcp",
+      "headers": {
+        "Authorization": "Bearer <token>"
+      }
+    }
+  }
+}
