@@ -17,7 +17,7 @@ Paste this into your assistant's settings. It is a remote MCP server over HTTP. 
 - "Do an Instagram audit of @natgeo and tell me what to fix first." The reply is a report on the account, with weak spots ranked by what to change first.
 - "Compare @nike and @adidas. Who has the more active audience?" The reply puts the two accounts side by side with a plain verdict.
 - "Find creators like @minimalist_baker with 10k to 100k followers." The reply lists similar accounts with followers, engagement and a link to each report.
-- "Find 20 hashtags for a vegan bakery in Berlin and show which ones are worth using." Hashtags come back grouped by how busy they are, ready to paste into a caption.
+- "Make hashtags for a vegan bakery in Berlin." A set of hashtags on that topic comes back, ready to paste into a caption.
 - "I sell running shoes. Research creators who might work with a brand like mine and save them to a list." A shortlist comes back with a line on why each one fits, saved to a list you can reopen.
 
 ## Free tools and connecting
@@ -136,7 +136,7 @@ Every key gets $1.00 of free use a day, reset at midnight UTC. Opening a saved r
 | Bio generator | $0.03 |
 | Caption generator | $0.01 |
 | Recent followers export | $0.10 |
-| Saved reports, niche lists, saved lists | Free |
+| Saved reports, comparisons, profile history, similar creators, niche lists, creators by hashtag, saved lists | Free |
 
 Your assistant checks with you before a paid run.
 
