@@ -1,9 +1,0 @@
-{
-  "name": "lookfluence",
-  "version": "1.0.0",
-  "mcpServers": {
-    "lookfluence": {
-      "httpUrl": "https://mcp.lookfluence.com/mcp"
-    }
-  }
-}

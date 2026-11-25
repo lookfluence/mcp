@@ -14,13 +14,13 @@ Paste this into your assistant's settings. It is a remote MCP server over HTTP. 
 
 ## What you can ask
 
-- "Do an Instagram audit of @natgeo and tell me what to fix first." You get a report on the account with its weak spots ranked by what to change first.
-- "Compare @nike and @adidas. Who has the more active audience?" You get the two accounts side by side and a plain verdict.
-- "Find creators like @minimalist_baker with 10k to 100k followers." You get a list of similar accounts with followers, engagement and a link to each report.
-- "Find 20 hashtags for a vegan bakery in Berlin and show which ones are worth using." You get hashtags grouped by how busy they are, ready to paste into a caption.
-- "I sell running shoes. Research creators who might work with a brand like mine and save them to a list." You get a shortlist with a line on why each one fits, saved to a list you can reopen.
+- "Do an Instagram audit of @natgeo and tell me what to fix first." The reply is a report on the account, with weak spots ranked by what to change first.
+- "Compare @nike and @adidas. Who has the more active audience?" The reply puts the two accounts side by side with a plain verdict.
+- "Find creators like @minimalist_baker with 10k to 100k followers." The reply lists similar accounts with followers, engagement and a link to each report.
+- "Find 20 hashtags for a vegan bakery in Berlin and show which ones are worth using." Hashtags come back grouped by how busy they are, ready to paste into a caption.
+- "I sell running shoes. Research creators who might work with a brand like mine and save them to a list." A shortlist comes back with a line on why each one fits, saved to a list you can reopen.
 
-## Without connecting, and after
+## Free tools and connecting
 
 Six tools work as soon as you add the URL: `get_profile_report`, `compare_profiles`, `profile_history`, `similar_profiles`, `niche_lists` and `creators_by_hashtag`. They read saved reports.
 
@@ -125,7 +125,7 @@ Tools marked (free) work without connecting.
 
 ## Pricing
 
-Every key gets $1.00 of free use a day, reset at midnight UTC. Opening a saved report, a niche list or one of your lists is always free. Paid use beyond the free part opens later. These are the prices then:
+Every key gets $1.00 of free use a day, reset at midnight UTC. Opening a saved report, a niche list or one of your lists is always free. Paid use beyond the free part is not open yet. Planned prices:
 
 | Tool | Price |
 |---|---|
@@ -138,7 +138,7 @@ Every key gets $1.00 of free use a day, reset at midnight UTC. Opening a saved r
 | Recent followers export | $0.10 |
 | Saved reports, niche lists, saved lists | Free |
 
-Your assistant is asked to check with you before a paid run.
+Your assistant checks with you before a paid run.
 
 ## Privacy
 
