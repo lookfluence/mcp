@@ -120,22 +120,22 @@ Tools marked (free) work without connecting.
 | `generate_caption` | Caption variants for a photo. |
 | `export_recent_followers` | The latest 200 followers or followings of a public account. |
 | `save_list`, `add_to_list`, `remove_from_list`, `get_list`, `my_lists` | Keep lists of creators under your connection. |
-| `get_account` | Your balance, what is left of today's free part, and prices. |
+| `get_account` | Your credits, what is left of today's free part, and prices. |
 | `get_job` | Result of a run that was still going. |
 
 ## Pricing
 
-Every key gets $1.00 of free use a day, reset at midnight UTC. Opening a saved report, a niche list or one of your lists is always free. Paid use beyond the free part is not open yet. Planned prices:
+Prices are in credits. 1 credit = $0.01. Every key gets 100 free credits a day, reset at midnight UTC. Opening a saved report, a niche list or one of your lists is always free. You can add credits on your account page at https://lookfluence.com/account.
 
 | Tool | Price |
 |---|---|
-| Profile analysis | $0.06 per new profile |
-| Hashtag search | $0.05 per hashtag |
-| Creator research by brief | $0.25 |
-| Hashtag or username generator | $0.10 |
-| Bio generator | $0.03 |
-| Caption generator | $0.01 |
-| Recent followers export | $0.10 |
+| Profile analysis | 6 credits per new profile |
+| Hashtag search | 5 credits per hashtag |
+| Creator research by brief | 25 credits |
+| Hashtag or username generator | 10 credits |
+| Bio generator | 3 credits |
+| Caption generator | 1 credit |
+| Recent followers export | 10 credits |
 | Saved reports, comparisons, profile history, similar creators, niche lists, creators by hashtag, saved lists | Free |
 
 Your assistant checks with you before a paid run.
