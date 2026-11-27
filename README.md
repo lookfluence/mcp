@@ -120,6 +120,14 @@ Tools marked (free) work without connecting.
 | `generate_caption` | Caption variants for a photo. |
 | `export_recent_followers` | The latest 200 followers or followings of a public account. |
 | `save_list`, `add_to_list`, `remove_from_list`, `get_list`, `my_lists` | Keep lists of creators under your connection. |
+| `my_campaigns` | Your influencer campaigns, with the creators and posts in each. |
+| `get_campaign` | One campaign with its creators, their stages, messages and posts. |
+| `create_campaign` | Start a campaign for a brand, with a name and a brief. |
+| `add_to_campaign` | Add creators by username, or from one of your lists. |
+| `update_creators` | Move creators between stages and edit their details. Moving a creator to Agreed asks for a confirmation code before any credits are taken. |
+| `save_messages` | Keep your messages to creators with the campaign. |
+| `review_matches` | Confirm or reject posts that may belong to the campaign. |
+| `campaign_report` | Totals, a line for each creator and a link to send to your client. |
 | `get_account` | Your credits, what is left of today's free part, and prices. |
 | `get_job` | Result of a run that was still going. |
 
@@ -136,6 +144,7 @@ Prices are in credits. 1 credit = $0.01. Every key gets 100 free credits a day, 
 | Bio generator | 3 credits |
 | Caption generator | 1 credit |
 | Recent followers export | 10 credits |
+| Campaigns | 200 credits per creator who agrees or first posts |
 | Saved reports, comparisons, profile history, similar creators, niche lists, creators by hashtag, saved lists | Free |
 
 Your assistant checks with you before a paid run.
