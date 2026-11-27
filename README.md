@@ -126,7 +126,7 @@ Tools marked (free) work without connecting.
 | `add_to_campaign` | Add creators by username, or from one of your lists. |
 | `update_creators` | Move creators between stages and edit their details. Moving a creator to Agreed asks for a confirmation code before any credits are taken. |
 | `save_messages` | Save the message you wrote for each creator, a direct message or an email, with the campaign. Nothing is sent. |
-| `review_matches` | Confirm or reject posts that may belong to the campaign. Confirming one for a creator who has not been charged yet asks for a confirmation code first. |
+| `review_matches` | Confirm or reject posts that may belong to the campaign. Confirming one for a creator who has not been charged yet asks for a confirmation code first. Rejecting never does. |
 | `campaign_report` | Totals, a line for each creator and a link to send to your client. |
 | `get_account` | Your credits, what is left of today's free part, and prices. |
 | `get_job` | Result of a run that was still going. |
